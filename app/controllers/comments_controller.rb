@@ -8,5 +8,5 @@ class CommentsController < ApplicationController
                        'Something went wrong'
                      end
     redirect_to post_path(@comment.post)
-    end
+  end
 end

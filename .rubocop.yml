@@ -3,6 +3,12 @@ AllCops:
     - "README.md"
     - "Guardfile"
     - "Rakefile"
+    - "config/**/*"
+    - "node_modules/**/*"
+    - "bin/*"
+    - "log/*"
+    - "test/**/*"
+    - "temp/**/**/*"
 
   DisplayCopNames: true
 
