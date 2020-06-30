@@ -1,0 +1,7 @@
+<h1>List of users</h1>
+<ul>
+  <% @users.each do |user| %>
+    <li><%= user.name %> : <%= user.email %> | Posts | Comments</li>
+  <% end %>
+</ul>
+<%= link_to 'Back to all posts', posts_path %>
