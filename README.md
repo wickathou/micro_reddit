@@ -20,7 +20,7 @@ A simple interface app that allows you to create users, posts and comments
 <!-- ABOUT THE PROJECT -->
 # About The Project
 ## Micro Reddit in RoR
-This is a job scrapper, developed following the OOP paradigm and built in RoR.
+This is a simple Reddit clone.
 
 ### Live Environment
 Check out the Live Version we have created for you by clicking on the next link:<br>
